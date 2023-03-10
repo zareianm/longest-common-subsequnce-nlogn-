@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).exe
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).deps.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).runtimeconfig.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).dll
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\bin\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).pdb
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).dll
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).pdb
+C:\Users\ADMIN\Desktop\longestcommonsubsequence(nlgon)\longestcommonsubsequence(nlgon)\obj\Debug\netcoreapp3.1\longestcommonsubsequence(nlgon).genruntimeconfig.cache
